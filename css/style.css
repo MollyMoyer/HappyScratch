@@ -56,7 +56,7 @@ footer {
 
 .cta {
   display: inline-block;
-  background-color: #004D5C;
+  background-color: #066010;
   color: #ffffff;
   font-size: 1rem;
   padding: 16px 32px;
@@ -75,8 +75,8 @@ footer {
 
 .swatch-primary { background-color: #734A70; }
 .swatch-neutral { background-color: #262220; }
-.swatch-accent { background-color: #008099; }
-.swatch-cta { background-color: #004D5C; }
+.swatch-accent { background-color: #068415; }
+.swatch-cta { background-color: #066010; }
 
 .type-sample-h1 { font-size: 1.85rem; }
 .type-sample-h2 { font-size: 1.5rem; }
