@@ -32,7 +32,7 @@ nav a[aria-current="page"] {
 }
 
 .skip-link:focus {
-  top: 10;
+  top: 10px;
 }
 
 a:focus {
