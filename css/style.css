@@ -81,7 +81,7 @@ footer {
 
 .cta {
   display: inline-block;
-  background-color: #066010;
+  background-color: #5B5806;
   color: #ffffff;
   font-size: 1rem;
   padding: 16px 32px;
@@ -100,8 +100,8 @@ footer {
 
 .swatch-primary { background-color: #565A3A; }
 .swatch-neutral { background-color: #262220; }
-.swatch-accent { background-color: #089118; }
-.swatch-cta { background-color: #066010; }
+.swatch-accent { background-color: #969108; }
+.swatch-cta { background-color: #5B5806; }
 
 .type-sample-h1 { font-size: 1.85rem; }
 .type-sample-h2 { font-size: 1.5rem; }
@@ -120,7 +120,7 @@ th, td {
 }
 
 th {
-  background-color: #089118;
+  background-color: #5B5806;
   color: #FFFFFF;
 }
 
