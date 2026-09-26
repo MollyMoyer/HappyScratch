@@ -107,3 +107,23 @@ footer {
 .type-sample-h2 { font-size: 1.5rem; }
 .type-sample-h3 { font-size: 1rem; }
 .type-sample-body { font-size: 0.90rem; }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #565A3A;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+th {
+  background-color: #565A3A;
+  color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f4ede4;
+}
