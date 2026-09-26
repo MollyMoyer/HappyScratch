@@ -121,9 +121,9 @@ th, td {
 
 th {
   background-color: #565A3A;
-  color: #F8F5F0;
+  color: #FFFFFF;
 }
 
 tbody tr:nth-child(even) {
-  background-color: #FFFFFF;
+  background-color: #F8F5F0;
 }
