@@ -22,7 +22,31 @@
   
   <main id="main-content">
     <h2>Contact</h2>
-    <p>Contact info is coming soon!</p>
+    <p>We’d love to hear from you! If you have a question about HappyScratch, please fill out the form below. We’ll get back to you as soon as we can.</p>
+    
+<form action="https://formspree.io/f/your-form-id" method="post">
+<label for="name">Name</label>
+<input type="text" id="name" name="name" required>
+  
+<label for="email">Email</label>
+<input type="email" id="email" name="email" required>
+  
+<label for="phone">Phone</label>
+<input type="tel" id="phone" name="phone">
+  
+<p>Which are you contacting us about?</p>
+  
+<label for="question">Question</label>
+<input type="radio" id="question" name="contact-type" value="question" checked>
+
+<label for="updates">Email me about product updates</label>
+<input type="checkbox" id="updates" name="updates">
+  
+<label for="message">How can we help?</label>
+<textarea id="message" name="message" required></textarea>
+  
+<button type="submit">Send Question</button>
+</form> 
   </main>
 
   <footer>
