@@ -81,7 +81,7 @@ footer {
 
 .cta {
   display: inline-block;
-  background-color: #DFD80C;
+  background-color: #B30909;
   color: #ffffff;
   font-size: 1rem;
   padding: 16px 32px;
@@ -100,8 +100,8 @@ footer {
 
 .swatch-primary { background-color: #565A3A; }
 .swatch-neutral { background-color: #262220; }
-.swatch-accent { background-color: #DFD80C; }
-.swatch-cta { background-color: #5B5806; }
+.swatch-accent { background-color: #F31B1B; }
+.swatch-cta { background-color: #B30909; }
 
 .type-sample-h1 { font-size: 1.85rem; }
 .type-sample-h2 { font-size: 1.5rem; }
@@ -144,7 +144,7 @@ input, textarea {
 button[type="submit"] {
   display: block;
   margin-top: 2rem;
-  background-color: #DFD80C;
+  background-color: #F31B1B;
   color: #ffffff;
   font-size: 1.25rem;
   padding: 16px 32px;
