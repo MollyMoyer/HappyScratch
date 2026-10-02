@@ -100,7 +100,7 @@ footer {
 
 .swatch-primary { background-color: #565A3A; }
 .swatch-neutral { background-color: #262220; }
-.swatch-accent { background-color: #969108; }
+.swatch-accent { background-color: #DFD80C; }
 .swatch-cta { background-color: #5B5806; }
 
 .type-sample-h1 { font-size: 1.85rem; }
@@ -144,7 +144,7 @@ input, textarea {
 button[type="submit"] {
   display: block;
   margin-top: 2rem;
-  background-color: #5B5806;
+  background-color: #DFD80C;
   color: #ffffff;
   font-size: 1.25rem;
   padding: 16px 32px;
@@ -153,7 +153,7 @@ button[type="submit"] {
 }
 
 form {
-  background-color: #969108;
+  background-color: #5B5806;
   padding: 32px;
   border-radius: 8px;
   max-width: 480px;
