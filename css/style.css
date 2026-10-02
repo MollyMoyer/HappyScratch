@@ -46,12 +46,12 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
-  color: #5B5806;
+  color: #262220;
 }
 
 h3 {
   font-size: 1rem;
-  color: #5B5806;
+  color: #262220;
 }
 
 p {
@@ -120,7 +120,7 @@ th, td {
 }
 
 th {
-  background-color: #5B5806;
+  background-color: #565A3A;
   color: #f8f5f0;
 }
 
@@ -153,7 +153,7 @@ button[type="submit"] {
 }
 
 form {
-  background-color: #5B5806;
+  background-color: #B30909;
   padding: 32px;
   border-radius: 8px;
   max-width: 480px;
